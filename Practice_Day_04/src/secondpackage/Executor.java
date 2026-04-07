@@ -12,6 +12,6 @@ public class Executor {
         b1.varPublic = 123456;
         b1.methodPublic();
 
-        // b1.methodProtected(); ❌ not allowed here
+        // b1.methodProtected(); not allowed here
     }
 }

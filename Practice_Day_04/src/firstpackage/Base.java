@@ -10,6 +10,7 @@ public class Base {
 	protected int varProtected=40;
 	
 	//decalre methods 
+
 	
 	void methodDefault()
 	{
